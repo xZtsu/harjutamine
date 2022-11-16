@@ -1,1 +1,3 @@
-GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks, seda kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted kogu maailmas.
+GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks, 
+seda kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted kogu maailmas.
+otsin githubist vastuseid oma küsimustele. oma koodi (nt väikse mängu) jagamiseks tulevikus.
